@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 跟随手指移动 -->
+    <declare-styleable name="FingerFollowLayout">
+        <attr name="action_mode" format="enum">
+            <enum name="auto_attach_side" value="0" />
+            <enum name="position_fixed" value="1" />
+        </attr>
+    </declare-styleable>
+
+</resources>
