@@ -15,7 +15,7 @@ publish {
     repoName = 'ulfy-maven'
     groupId = 'com.ulfy.android.controls'
     artifactId = 'fingerfollow-layout'
-    publishVersion = '1.0.0'
+    publishVersion = '1.0.1'
     uploadName = 'fingerfollow-layout'
     desc = '跟随手指移动的布局'
     website = 'https://github.com/ulfyyang/ulfy-fingerfollow-layout'
