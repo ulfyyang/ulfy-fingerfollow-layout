@@ -9,6 +9,8 @@ import android.view.ViewConfiguration;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
 
+import com.ulfy.android.controls.figerfollowlayout.R;
+
 public class FingerFollowLayout extends FrameLayout {
     private float initX, initY, initMoveX, initMoveY, initTranslationX, initTranslationY;     // 记录初始化时的位置和位移
     private float fingerMoveX, fingerMoveY, viewMoveX, viewMoveY;                             // 记录手指移动的位置和位移
